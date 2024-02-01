@@ -43,3 +43,6 @@ for mahsulot in mahsulotlar: #mahsulotlar ichidagi har bir mahsulot uchun
 for buyum in bozorlik:
     if buyum not in mahsulotlar:
         print(f"iltimos ,  dukoningizga {buyum} olib keling")
+        
+ ####################################################################
+print("salom")
