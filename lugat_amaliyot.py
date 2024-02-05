@@ -91,7 +91,7 @@ for n in range(3):
     buyurtmalar.append(input(f"{n+1} - taaom :").lower())
     
 for buyurtma in buyurtmalar:
-    if buyurtma in buyurtmalar:
+    if buyurtma in taomlar:
         print(f"{buyurtma.title()} {taomlar[buyurtma]} sum")
     else:
         print("kechirasiz")
