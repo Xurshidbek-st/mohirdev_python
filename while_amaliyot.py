@@ -22,7 +22,7 @@ while True:
 #yoshini so'rasin va chipta narhini chiqarsin. Foydalanuvchi exit yoki quit deb yozganda dastur to'xtasin 
 #(ikkita shartni ham tekshiring).
 #Yuqoridagi dasturni turli usullarda yozib ko'ring (break, ishora, yoki shart tekshirish)
-
+'''
 savol = "Yoshingiz nechida"
 while True:
     qiymat = input(savol)
@@ -41,6 +41,7 @@ while True:
         print("Sizga chipta bepul")
     else:
         print(f"Chipta {narh} so'm")
+'''
        
 
 
