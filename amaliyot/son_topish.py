@@ -58,5 +58,5 @@ def play(x = 10):
         elif taxminlar_pc > taxminlar_user:
             print("siz yutdingiz")
         else:
-            print("durang")
+.            print("durang")
         yana = int(input("yana o'ynaysizmi? Ha(1)/Yo'q(0): "))
