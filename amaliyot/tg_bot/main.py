@@ -1,13 +1,10 @@
 """
-14/01/2021
+Xdev
 
-Dasturlash asoslari
+
 
 КИРИЛЛ-LOTIN TELEGRAM BOT
 
-Muallif: Anvar Narzullaev
-
-Web sahifa: https://python.sariq.dev
 """
 import telebot
 from transliterate import to_cyrillic, to_latin
